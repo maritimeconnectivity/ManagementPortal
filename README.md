@@ -6,5 +6,6 @@ There are currently two implementations based on Angular, but with different fra
 
 ## Implementations
 
-- Management portal powered by [ngx-admin](https://github.com/akveo/ngx-admin): https://github.com/maritimeconnectivity/management-portal-ngx-admin
 - Management portal powered by [Clarity Design](https://github.com/vmware-clarity/ng-clarity): https://github.com/maritimeconnectivity/management-portal-clr
+- (Not actively maintained) Management portal powered by [ngx-admin](https://github.com/akveo/ngx-admin): https://github.com/maritimeconnectivity/management-portal-ngx-admin
+
